@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Lora:ital@1&family=Nunito:wght@200;300&family=Poppins:ital,wght@0,300;1,200&family=Roboto&family=Work+Sans:wght@200&display=swap');
+body{
+	font-family: 'Gentium Book Basic', serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;	
+}
+a:hover{
+	text-decoration:none;
+}
+.body-content{
+	padding-top:80px;
+	padding-bottom:60px;	
+}
+.banner{
+	height:350px;
+	background-image:url(../image/banner-new.jpg);
+	background-position:center;
+	background-size:cover;
+}
+.banner-inner{
+	height:350px;
+	background-color:rgba(0,0,0,0.6);
+	padding:70px 0 0;
+	box-sizing:border-box;
+}
+.btn-success{
+	background-color:#00DF70 !important;
+}
+.bg-info{
+	background-color:#466988 !important;
+}
+.btn-info{
+	background-color:#466988 !important;
+	height:45px !important;
+}
+.btn-info-sm{
+	background-color:#466988 !important;
+	color:white;
+}
+.form-control{
+	height:45px;
+}
+.bg-color{
+	background-color:#243646 !important;
+}
+.bg-color-one{
+	background-color:#1C2935;
+}
+
+.middle{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.know{
+	background-color: #7b2626 !important;
+	width: 100%;
+	height: 600px;
+}
